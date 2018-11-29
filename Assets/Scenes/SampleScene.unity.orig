@@ -219,10 +219,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   healthPercentage: 2
+  infectionSpeed: 1
 =======
   healthPercentage: 3
+  infectionSpeed: 30
 >>>>>>> master
-  infectionSpeed: 0
 --- !u!4 &2025426345
 Transform:
   m_ObjectHideFlags: 0
