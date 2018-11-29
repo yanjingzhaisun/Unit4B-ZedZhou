@@ -217,6 +217,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e79a0569f13f4b7a8013c4f4174e203, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healthPercentage: 2
+  infectionSpeed: 0
 --- !u!4 &2025426345
 Transform:
   m_ObjectHideFlags: 0
